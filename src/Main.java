@@ -34,7 +34,6 @@ public class Main {
                 if(isValid()) {
                     print();
                 }
-                //Enable the new block
                 buffer = new StringBuilder();
                 buffer.append(line);
                 buffer.append("\n");
